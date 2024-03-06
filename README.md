@@ -2,8 +2,8 @@
 ###
 <b><i>Who am I ?</i></b>
 
-<font color="yellow">
-###I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos. Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them</font>
+###<font color="yellow">
+I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos. Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them</font>
 
 <!--
 **SenuraUpeshKumara/SenuraUpeshKumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
